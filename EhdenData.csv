@@ -1,0 +1,211 @@
+﻿Fingerprint ID,Data Partner,Data Source Acronym,Country,Person Count,Why,Care Level,EHR,Claim,Lab,Case Report Form,Survey,NLP,Death Certificate,Unknown
+9aded3e1f181eebb10bb11bf624fdb68,"Centro Clínico Académico – Braga, Associação (2CA-Braga) ",2CA-Braga,PT,1070217,Encounter,Secondary,1,0,0,0,0,0,0,0
+b88214ed79a6062c5ff0f2a237b46007,INCLIVA,ABUCASIS,ES,4014819,Encounter,Mixed,1,1,1,0,0,0,0,0
+16155fc46c61e2684f9fdf39ca4a09fc,"The wellbeing services county of Southwest Finland, VarHa",ACI,FI,765000,Encounter,Secondary,1,0,1,0,0,0,0,0
+ded05235c741462339a30ecac7d407d0,Innovative Medical Research SA,ADWH IMR,GR,600000,Encounter,Primary,1,0,0,0,0,0,0,0
+39f209876f2d7cb5eccccb64426586f0,Fondazione Casa Sollievo della Sofferenza,aGMS,IT,2140,Disease,Secondary,1,0,0,0,0,0,0,0
+caad32dbaf29a090f971402f0914e6b9,Akrivia Health,AKRDB,GB,3085560,Encounter,Secondary,1,0,0,0,0,0,0,0
+7a4f231857135cf2f970f9320b5f88a8,Amsterdam UMC,AmsterdamUMCdb,NL,20109,Encounter,Secondary,1,0,1,0,0,0,0,0
+9cc708c7d59c6c2c8a8a9039be7105ec,Stichting VUmc,AMYPAD PNHS,NL,3368,Disease,Mixed,0,0,0,1,0,0,0,0
+942721d0dc00fe84367d3dfc576934f9,AZIENDA OSPEDALIERO UNIVERSITARIA SAN LUIGI GONZAGA,AOU-SANLUIGI,IT,184520,Encounter,Secondary,1,0,1,0,0,0,0,0
+203280afc7f969f4589186389abf2cdb,University Hospital of Parma,AOUPR,IT,573205,Encounter,Secondary,1,0,0,1,0,0,0,0
+9f3cee0e54ab26e39b01de1ef8d8e1c1,Azienda Ospedaliera Universitaria Integrata Verona,AOVR,IT,512000,Encounter,Secondary,1,1,1,0,0,0,0,0
+680b51e92a4c0a7d742e1236e0e48b7f,Assistance Publique - Hopitaux de Marseille,AP-HM,FR,2792497,Encounter,Mixed,1,0,0,0,0,0,0,0
+061257c6888e054d8019560a5f905369,APDP,APDP,PT,242000,Encounter,Secondary,1,0,0,0,0,0,0,0
+08b9b357078fee8ac3bc36fed2a6164b,Azienda Ospedaliero-Universitaria di Modena,APUM,IT,3272,Disease,Mixed,1,0,1,1,0,0,0,0
+6bedf8a30df7c80e9d483da2e1f550b8,Servei Català de la Salut,AQUAS - CatSalut CMBD,ES,6881752,Encounter,Secondary,1,0,0,0,0,0,0,0
+a709c23ccbb95c6a9517b75d1999c91f,FONDAZIONE TOSCANA GABRIELE MONASTERIO PER LA RICERCA MEDICA E DI SANITA PUBBLICA (FTGM),ARCA,IT,464194,Encounter,Mixed,1,0,1,0,0,0,0,0
+b16b2c70ee2a434f1c6ec38a0ae30d0b,ASL Roma 1,ASL Roma 1,IT,1198036,Encounter,Mixed,1,0,0,0,0,0,0,0
+ea6273b254ffddd9173c0faeeb3579d5,Assuta medical centers,AssutaSurgical,IL,776538,Encounter,Secondary,1,0,0,0,1,0,0,0
+2bd1b7c9eb9a0b2c7ea607bdc49d372e,ATS Bergamo,ATS-BG,IT,1300000,Population,Mixed,1,0,0,1,0,0,0,0
+54c387bec141b0d7f0cd0a53af143d48,Institute of Rheumatology,ATTRA,CZ,8006,Disease,Mixed,1,0,0,1,0,0,0,0
+1f1fdbc28602f9c1afe91f1e0540ab4d,Marco Massari (IRCSSE),AUSL-RE,IT,43564,Disease,Mixed,1,0,1,0,0,0,0,0
+15f2a2582686859967b0c5f27093876f,Az Oostende,AZ Oostende,BE,371097,Encounter,Secondary,1,0,0,0,0,0,0,0
+cb69449393e8316736bb8622163859e0,AZ Delta,AZDDB,BE,990559,Encounter,Secondary,1,0,1,0,1,1,0,0
+2591d034ad514622a106907cc2e7cb76,VZW AZ Groeninge,AZG,BE,18571,Encounter,Secondary,0,0,0,0,0,1,0,0
+90267c5da56724a69ad02e642ad29172,AZ Klina,AZK,BE,506770,Encounter,Secondary,1,0,0,0,0,0,0,0
+94b9d4c686713c59eea4f0dec0ade41e,AZ Maria Middelares,AZMM,BE,95341,Encounter,Secondary,0,0,0,0,0,1,0,0
+2b75f2d4352dfebf8a7103cc70bcbbe5,Servicio Navarro de Salud Osasunbidea (SNS-O),BARDENA,ES,1972272,Encounter,Mixed,1,0,0,0,0,0,0,0
+a3561d0de114192ece978577133a3ce1,Barts Health NHS Trust,Barts,GB,2312983,Encounter,Secondary,1,0,0,0,0,0,0,0
+721e2f65c9882635cc339e8441fd154d,"National Scientific Programme ""E-Health in Bulgaria""",BDR,BG,501065,Disease,Mixed,0,0,0,1,0,0,0,0
+b30789fd7c0920728c341821a67ba6ee,"Agencia Española de Medicamentos y Productos Sanitarios, AEMPS",BIFAP,ES,22500000,Population,Primary,1,0,0,0,0,0,0,0
+f30438c24a4811a54fd0d7d50c387946,Instituto Aragonés de Ciencias de la Salud (IACS),BIGAN,ES,2291148,Encounter,Mixed,1,0,0,0,0,0,0,0
+be75506831cabd5f4c9594039d648142,Instituto de Medicina Molecular,Biobank_iMM_Reuma,PT,592,Disease,Mixed,1,0,1,0,0,0,0,0
+b2fce7dbd20d057863d5a66c455e92ec,Bnai Zion Medical Research Foundation and Infrastructure Development Health Services,BZMC,IL,1068599,Encounter,Secondary,1,0,1,0,1,0,0,0
+e0b6e06eab31b386c215034f3560133c,Inspire-srl,CasertaDB,IT,1302318,Population,Mixed,1,1,0,0,0,0,0,0
+1cc558a55bc0d14901eeea1f499ecfff,Connected Bradford,cBradford,GB,1200677,Encounter,Mixed,1,0,0,0,0,0,0,0
+948773f5fc5176df8f84f7e8128231f1,Clinical Center of Montenegro,CCME,ME,202322,Encounter,Secondary,1,0,1,0,0,0,0,0
+00b3bc5be8db7aadbcf0cb13b9a7cb42,Casa di Cura Privata del Policlinico (CCPP),CCPP,IT,16218,Encounter,Mixed,1,0,0,1,0,0,0,0
+8652b843c796275cd38af12b9646b764,ISMETT,cdm_ismett,IT,24269,Encounter,Secondary,1,0,0,0,0,0,0,0
+58945e14e09df0fd34cde8524a9115ed,Bordeaux University Hospital,CDWbordeaux,FR,1985011,Encounter,Secondary,1,1,1,0,0,0,0,0
+9705fbdee952fcedc724b550a1c347e2,Charité - Universitätsmedizin,CHA-CAN,DE,214443,Encounter,Secondary,1,0,0,0,0,0,0,0
+2a1373fcf4d544b791ef69ca2e9dabcf,Charité - Universitätsmedizin,CHA-DIA,DE,60138,Encounter,Secondary,1,1,1,0,0,0,0,0
+4c3da04bc323b04f7356656f79b6756e,Charité - Universitätsmedizin,CHA-IBD,DE,2471,Encounter,Secondary,1,0,0,0,0,0,0,0
+0f6d53d8bffb4f5ba7a6c7938ad7afb6,"Institute of Social and Preventive Medicine, University of Bern",ChCR and SCCSS,CH,12000,Disease,Mixed,1,0,0,1,0,0,0,0
+3415807c79866b079002e2f2b933db81,Clinical-hospital center Zvezdara,CHCZ,RS,515000,Encounter,Secondary,1,0,1,0,0,0,0,0
+ed919437975e448b34d111cb3fb9b20d,Clinical Hospital Dubrava,CHDubrava–IN2,HR,311754,Encounter,Secondary,1,0,0,0,0,0,0,0
+ab1c6ce3d46ddb6e2986c718a76e384a,Centro Hospitalar Universitário de Coimbra (CHUC),CHUC Ophtalmology,PT,31507,Encounter,Secondary,1,0,0,0,0,0,0,0
+21513f072f0b2bcee3372e0c175ac608,Centre Hospitalier Universitaire de Toulouse,CHUT,FR,3059340,Encounter,Secondary,1,0,0,0,0,0,0,0
+ea0b8adef1f87e75337646d361b16073,Modena Oncology Center - Azienda Ospedaliera Modena,COMNet,IT,89300,Encounter,Secondary,1,0,0,0,0,0,0,0
+f7a9bbcb9d908083f88d1c00e40f1c9b,Clinical Practice Research Datalink (CPRD),CPRD AURUM,GB,47193158,Population,Primary,1,0,0,0,0,0,0,0
+53ba7e0463ee61834cf1202a4797edfe,Clinical Practice Research Datalink (CPRD),CPRD HESAPC AURUM,GB,34146603,Population,Mixed,1,0,0,0,0,0,0,0
+3a81c76d9e6489110e6b9caa39aa0b8b,The Norwegian Cancer Registry,CRN,NO,1156806,Disease,Secondary,0,0,0,1,0,0,0,0
+d3eaf414212401dde361123720c2104a,Basilicata Cancer Registry,CROB,IT,54265,Disease,Primary,0,0,0,1,0,0,0,0
+5d7ef261664fafde1b32e2e7c4658364,Krebsregister Rheinland-Pfalz,CRRLP,DE,216174,Disease,Mixed,0,0,0,1,0,0,0,0
+ed4556d5a251e7caf5873b9c5987964a,CUF,CUF_CRC,PT,1485,Disease,Secondary,1,0,0,0,0,0,0,0
+04c214bb6833c62b2164cdc88a983e9a,DataLoch,DataLoch,GB,414038,Disease,Secondary,1,0,1,0,0,0,1,0
+530b5671d32aab8d848d03f9674e7f64,Center for Surgical Science (CSS),DCCG,DK,76849,Disease,Secondary,1,0,1,0,0,0,0,0
+d8f8ba5bc233a6fc81a5a70af1e28cfe,Amsterdam UMC,DDW,NL,1834,Disease,Secondary,1,0,0,0,0,0,0,0
+591f5a6c01f4a1ac41297f89da27dc83,Stockholm CREAtinine Measurements Project,DH-SCREAM,SE,3085764,Encounter,Mixed,0,1,1,0,1,0,1,0
+4186319880b427fcc75dc75d84a11faa,University of Southern Denmark,DHCR,DK,99930,Population,Secondary,0,0,0,1,0,0,0,0
+56e86c7ce54e2e1565606c882a6528db,DIGITAL HEALTH SOLUTIONS SA,DHS BIO,GR,2102509,Encounter,Primary,1,0,1,0,0,0,0,0
+2b15d39f0fa88a12124da1dd743c2f10,German Cancer Society (DKG),DKG EDIUM,DE,8680,Disease,Mixed,1,0,0,0,1,0,0,0
+f576e44bd8a3e903594f644136297bbb,German Cancer Society (DKG),DKG PCO,DE,49300,Disease,Mixed,1,0,0,0,1,0,0,0
+75677f2bde5bfd717bc13f2aca212534,Hospital de Denia,DptoSalud-DENIA,ES,356723,Encounter,Mixed,1,0,0,0,0,0,0,0
+1dc824775628478d885be083ef1dc8ee,"University of Ulm, ZIBMT",DPV,DE,638031,Disease,Mixed,0,0,0,1,0,0,0,0
+1e25e6458557f705da9265f6163635e1,Research Institute - Hospital de la Santa Creu i Sant Pau,DW HSCSP,ES,1315128,Encounter,Mixed,1,0,0,0,0,0,0,0
+5ec9dbe238b1f4b20e2b77ac81eb84d8,Primary Healthcare Center Zemun,DZ Zemun,RS,355000,Population,Primary,1,0,1,0,0,0,0,0
+3837ddec6c5a5a90ece43cea71ce094c,EBMT: The European Society for Blood and Marrow Transplantation,EBMT,NL,899425,Disease,Secondary,0,0,0,1,0,0,0,0
+a267a102f86edbaf46f04752de27ef62,European Clinical Research Alliance on Infectious Diseases (ECRAID),ECRAID-Base POS VAP,NL,563,Disease,Secondary,0,0,0,1,0,0,0,0
+d5abf0a5f0bb06316d65ca9d3093f150,Centre Hospitalier Universitaire de Montpellier,eDOL Entrepôt de DOnnées du Languedoc,FR,1930844,Encounter,Secondary,1,0,0,0,0,0,0,0
+6a283938ba725c92b4d3245db74c1b62,Fondazione IRCCS Policlinico San Matteo,ELISA,IT,437482,Encounter,Mixed,1,0,1,1,0,0,0,0
+ecd52372398a143e9461f5cf47fe628a,EGAS MONIZ HEALTH ALLIANCE,EMHA ULSEDV,PT,563,Encounter,Secondary,1,0,0,0,0,0,0,0
+58dee120204a8561efc2c16f6bbc680b,EGAS MONIZ HEALTH ALLIANCE,EMHA ULSGE,PT,728,Encounter,Secondary,1,0,0,0,0,0,0,0
+2634e49c6a9f6da8c2ba5321a3eda0d7,EGAS MONIZ HEALTH ALLIANCE,EMHA ULSRA,PT,514000,Encounter,Secondary,1,0,0,0,0,0,0,0
+b577e135b7c42e5b9f3d60d0be7ed8a5,European Rare Kidney Disease Registry (ERKReg),ERKReg,DE,17079,Disease,Mixed,0,0,0,1,0,0,0,0
+f30f1183e7d57f326f2404ebc4f9076d,University of Tartu,Estonian Biobank,EE,202102,Population,Mixed,1,1,0,1,1,0,1,0
+805b745b874777ade9db9fe2b6ec9bfd,FIIBAP,FIIBAP-COVID19,ES,338303,Encounter,Primary,1,0,0,0,0,0,0,0
+cfa6412491182764a51ad116669ddf46,Fondazione IRCCS Istituto Neurologico Carlo Besta,FINCB - Dataset,IT,132408,Encounter,Mixed,1,1,0,1,0,0,0,0
+1d6526c6ffafa352f7b9bf4e86847867,Fondazione IRCCS Istituto Neurologico Carlo Besta FINCB,FINCB-COVID19,IT,766,Disease,Secondary,1,0,0,0,0,0,0,0
+f1a00a42c475fa57bcdbc0a4406900ab,"FinRegistry (Institute of Molecular Medicine Finland (FIMM), University of Helsinki)",FinRegistry,FI,5343204,Population,Mixed,0,0,0,1,0,0,0,0
+196c57563d2bf257b2d04c95e2de9968,Queen Mary University of London,FLS,GB,27000,Disease,Mixed,0,0,0,0,0,0,0,1
+473b88b13c2b0ead06c1611751efe931,Fondazione Poliambulanza Istituto Ospedaliero,FPIO,IT,23116,Disease,Secondary,1,0,1,0,0,0,0,0
+99bf0072e5ef6f11b7ecd328a782a87b,Geneva Cancer Registry,GCR,CH,148929,Disease,Mixed,0,0,1,1,0,0,1,0
+7c30fe130669a70188dd972cd5d1661d,Telavi Regional Hospital,GE Telavi,GE,41059,Encounter,Secondary,1,0,1,0,0,0,0,0
+68b939be617fe15b741ff22056cdfbc3,GENERAL HOSPITAL OF KAVALA,GHK,GR,183024,Encounter,Secondary,1,0,0,0,0,0,0,0
+31308f5f6e24d1b3ab9c402497c206c7,MS Forschungs- und Projektentwicklungs-GmbH,GMSR,DE,82300,Disease,Mixed,0,0,0,1,0,0,0,0
+b1bc4cb1edb4f462419ff4600bf6a58f,"Grande Ospedale Metropolitano ""Bianchi-Melacrino-Morelli""",GOM-RC,IT,199645,Population,Mixed,1,0,1,0,0,0,0,0
+ab2b17e951004da0ae77fffa19736204,GOSH,GOSH DRE,GB,135511,Encounter,Mixed,1,0,0,0,0,0,0,0
+6dcc34391402cbbea249dc2e936771cb,Fundacion de Investigacion Biomedica del Hospital Universitario 12 de Octubre,H12O,ES,2809436,Encounter,Mixed,1,1,1,0,0,0,0,0
+7a19837ec99dec0201306fde21249061,Hadassah OBGYN,HadassahOBGYN,IL,119753,Encounter,Secondary,1,0,0,0,0,0,0,0
+8fec5353609a0c0b54148047fa7c7591,Hospital Distrital de Santarém (HDS),HDS Oncology and Obesity EHR,PT,5000,Disease,Mixed,1,0,0,0,0,0,0,0
+718459ab74b2618296afff1f2762c38d,Harvey Walsh Ltd,HES,GB,35778117,Encounter,Secondary,1,0,0,0,0,0,0,0
+c76284893a8697a6fbdef47ce3613d85,Health Informatics Centre (HIC),HIC,GB,1253625,Encounter,Mixed,1,0,1,1,0,0,0,0
+8045aa754f36a641e1f0788ba89fb3b5,SIMG,HSD,IT,2399088,Encounter,Primary,1,0,0,0,0,0,0,0
+18ebab519bf497eb7902fa2fd97daffa,Hospital Sant Joan de Déu,HSJD,ES,1247603,Encounter,Secondary,1,0,0,0,0,0,0,0
+1f52242d26c53e0e05a877ecf81cd3e6,Fundación para la Investigación del Hospital Universitario La Fe de la Comunidad Valenciana (HULAFE),HULAFE,ES,2274159,Encounter,Mixed,1,1,1,0,1,0,0,0
+ec16a71a1716490bd2693b76245b72d0,Hospital District of Helsinki and Uusimaa,HUS,FI,3333798,Encounter,Secondary,1,0,0,0,0,0,0,0
+d9844a7c82499da98b95f7b082899bad,Virgen Macarena University Hospital,HUVM,ES,1089615,Encounter,Mixed,1,1,1,0,0,0,0,0
+2385d5fbcc18964b764818684bf7e7fb,DIAGNOSTIC & THERAPEUTIC CENTER OF ATHENS “HYGEIA” SINGLE MEMBER SOCIETE ANONYME,HYGEIA-EHDEN,GR,566798,Encounter,Mixed,1,0,1,0,0,0,0,0
+94d030dc9979a610610e4b9f017158ab,Icometrix,Icometrix,BE,4595,Encounter,Mixed,0,0,1,0,0,0,0,0
+7554401febdaa999bf684bc023b6b7e5,Lancashire and South Cumbria Integrated Care Board,IDRIL-1,GB,1499205,Encounter,Secondary,1,0,0,0,0,0,0,0
+0e5f7be624b6e3fa71a71c9cbf549a4f,Fundacio Institut d'Investigacions Mèdiques (FIMIM),IMASIS,ES,1800000,Encounter,Mixed,1,1,1,1,0,0,0,0
+43460f79bfca2c4ef882b2d2331b459b,Lille University Hospital,INCLUDE,FR,1914682,Encounter,Secondary,1,0,0,0,0,0,0,0
+2b335c4d1bc09a106633b2c4a81dd272,InGef - Institute for Applied Health Research Berlin GmbH,InGef RDB,DE,9111064,Population,Mixed,0,1,0,0,0,0,0,0
+28b751909d6812fb4d101017a169f2e3,Institut Català d'Oncologia,Institut Català d'Oncologia,ES,406877,Disease,Mixed,1,0,0,0,0,0,0,0
+422daa3a2b18f14938a918fdb066b623,Fondazione Istituto Nazionale dei Tumori,INT,IT,721861,Disease,Mixed,1,0,0,1,0,0,0,0
+b4a319fb7ae877b61aafd066ee7bd663,NO GRANT,IPCI,NL,2870221,Population,Primary,1,0,0,0,0,1,0,0
+5536b6b6115002d42de68beaa75379f9,Consorci Corporació Sanitària Parc Taulí,IRIS,ES,1286363,Encounter,Mixed,1,0,0,0,0,0,0,0
+4328f79bb056a61dae3060da642db95d,Istanbul University,ITF,TR,899515,Encounter,Mixed,1,0,0,0,0,0,0,0
+5b1c4554734b4e1ba66471ef9bc5c536,IUC Cerrahpa_a TIP Fakületesi ,IU-CTF,TR,584043,Encounter,Mixed,1,0,0,0,0,0,0,0
+8875451a8a6a0bf4770d269f5ce0cf48,E-MEDIT D.O.O. & Hospital Travnik,JU Travnik,BA,52479,Encounter,Secondary,1,0,1,0,0,0,0,0
+d7e370abebe9e9e931736fdc6b2b44d3,IN2 d.o.o. & Clinical Hospital Center Osijek,KBC Osijek,HR,381105,Encounter,Mixed,1,0,1,1,0,0,0,0
+b34ea67aebf0cd1f2cc09f2ae0b96561,IGEA d.o.o. & University Hospital Center Sestre milosrdnice,KBC SM,HR,600000,Encounter,Primary,1,0,1,1,0,0,0,0
+6b40cfc0683b68012be84039445d6aea,Hierarchia & University Hospital Centre Zagreb,KBCZg,HR,961568,Encounter,Mixed,1,0,0,0,0,0,0,0
+d091f8bdf3d9a921a89de767b07564d7,MEB KI,KI-MEB,SE,1300000,Population,Mixed,0,0,0,1,0,0,0,0
+64937041593ffb6ed2abde7a83fc60ea,Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza,Kkh_EMR,HU,500000,Encounter,Secondary,1,0,1,0,0,0,0,0
+b72c4a1dd68a7cae09e3e0cd0b45dbf2,The Directorate of Government Medical Centers at the Israeli Ministry Of Health,KMC-EHR,IL,6585681,Encounter,Secondary,1,0,1,0,1,0,0,0
+910e5bb2ee681bcf68d6c9741306d546,Lambeth DataNet,LDN,GB,1350835,Encounter,Primary,1,0,0,0,0,0,0,0
+4bf2eb5a187b61a1da9c2094fe8d5752,Hospital da Luz Learning Health,LH_MMO,PT,7245,Disease,Secondary,1,0,1,0,0,0,0,0
+f8770c62877d0a686e7c65694988e8bb,Leeds Teaching Hospitals,LTHT,GB,1925447,Encounter,Secondary,1,0,1,0,0,0,0,0
+f02fd0c9ecca6f4583e75f2369e408e5,OAKS Consulting s.r.o.,LUCAS,CZ,8507,Disease,Mixed,0,0,0,1,0,0,0,0
+d5b89596957d3a2fb961e18d161f53d8,MCS Grupa d.o.o. & Health Care Center of Primorje-Gorski Kotar County,M-DZPGZ,HR,277128,Encounter,Primary,1,0,1,0,0,0,0,0
+8e45e638278a7348d9009a26249ceaf8,Azienda Ospedaliera SS Antonio e Biagio e Cesare Arrigo,MACADAM,IT,879,Disease,Mixed,1,0,0,0,0,0,0,0
+41b29d616cd0682e67c55237ed19b1f0,Medaman,MHD,BE,117105,Encounter,Secondary,1,1,1,0,0,0,0,0
+0d728cc0bac9089efc990392a15d1df9,Hanover Medical School,MHH,DE,2252576,Encounter,Secondary,1,0,0,0,0,0,0,0
+8dfb4c12635e4c12c038f7b4e735c9a1,CancerDataNet GmbH,MM_CDN,DE,7006,Disease,Mixed,1,1,0,1,0,0,0,0
+d1dccfac0fa54d3a06791a7571f1c153,University MS Center,MSDC,BE,872,Disease,Mixed,0,0,0,1,0,0,0,0
+11075d713421706adfee917e65d3c76e,Medical University of Vienna,MUV,AT,33948,Encounter,Secondary,1,0,0,0,0,0,0,0
+7dca311bd3601cdddd56ff0d5ca7a104,Medical University of Vienna,MUV-H2O-BC,AT,3508,Disease,Secondary,1,0,0,0,0,0,0,0
+aaf80e8ce2f249acb72591d7c8d76446,Medical University of Vienna,MUV-H2O-DM,AT,170,Disease,Secondary,1,0,0,0,0,0,0,0
+5cf6a7a4ad18382fb2d6872603e38ce4,IKNL,NCR,NL,2339983,Disease,Mixed,0,0,0,1,1,0,0,0
+7f5addedb70eee1bd5282d15b9fa882d,National Institute of Health Insurance Fund Management Hungary,NEAK,HU,14140982,Population,Mixed,1,0,0,0,0,0,0,0
+5a4a261e1e46d21647d8ccfbceeeaf0f,AO Card. G. Panico - Center for Neurodegenerative Diseases and Aging Brain,Neurage-DB,IT,552,Disease,Secondary,1,0,0,0,0,0,0,0
+b23d2ce8e4e7dfe2bea648f4061e7985,Queen Mary University of London,NHFD,GB,590584,Disease,Secondary,1,0,0,0,0,0,0,0
+65fd0722b9fc9d3ec0eb82c8479bc16a,King's College London,NHIC RENAL GSTT,GB,2149,Disease,Secondary,0,0,0,0,0,0,0,1
+88865545c46d45f803f28120da8845da,University of Oslo,NHR@UiO,NO,7343868,Population,Mixed,0,0,0,1,0,0,0,0
+8c19f9ec23e70459a758c24e9b55534b,National Intensive Care Evaluation foundation,NICE,NL,1072259,Encounter,Secondary,1,1,0,0,0,0,0,0
+17c21e5d374151a1d9a95ce2cf5fcbb8,UK National Neonatal Research Database,NNRD,GB,1180103,Encounter,Secondary,1,0,0,0,0,0,0,0
+8625415cc0a86bfade7fce564f4af950,Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház,Nyir_EMR,HU,967000,Encounter,Secondary,1,0,1,0,0,0,0,0
+aa73712a0118a6db9c40cfe0946dd791,Bambino Gesù Children's Hospital,OBG-POHD,IT,3901,Disease,Secondary,1,0,0,0,0,0,0,0
+b8b5a5d121bf5705acabcf9b94642e86,Onze-Lieve-Vrouwziekenhuis Aalst-Asse-Ninove,OLVZ_LUNG,BE,364,Disease,Mixed,1,0,1,1,0,0,0,0
+4fdd1712c0b024ad71673fc038654e83,GermanOncology,OncalizerReg,DE,4159,Disease,Secondary,0,0,0,1,0,0,0,0
+c9c148c1cd8f645fa1d291e7204d82cd,Optimum Patient Care Limited,OPCRD,GB,25953068,Encounter,Primary,1,0,0,0,1,0,0,0
+0b4c0353f5804239a804626ccf68161a,Royal College of General Practitioners (RCGP),ORCHID,GB,8000000,Population,Primary,1,0,0,0,0,0,0,0
+572a14a4fe78bdaac6537e50d1511197,Rioja Salud,PASCAL,ES,789371,Encounter,Mixed,1,0,0,0,0,0,0,0
+d208ffeb6ef3cb666c8180e8e729277d,University of Turku (Prostate Cancer Registry of South West Finland),PcaSF,FI,22232,Disease,Mixed,1,0,1,1,0,0,0,0
+2282a70354a0a262d69ec876dc3f9649,ASST Papa Giovanni XXIII,PG23,IT,451135,Encounter,Mixed,1,0,1,0,0,0,0,0
+e25d2fe242ea353257c7e569e037b821,Papageorgiou General Hospital,PGH,GR,1412857,Encounter,Secondary,1,0,0,0,0,0,0,0
+4740fdb9b00a2c9c5596ed8c895dde8a,STIZON,PHARMO,NL,4441048,Encounter,Primary,1,0,0,0,0,0,0,0
+063ad38b0e1a10842372eacb6decb9b0,BCB Medical Ltd,Pirha BCB IBD,FI,4516,Disease,Secondary,1,0,1,0,1,0,0,0
+1579dff54f242c12da13b473a2970e88,Fondazione IRCCS Ca’ Granda Ospedale Maggiore Policlinico ,POLIMI,IT,1470942,Encounter,Secondary,1,0,1,0,0,0,0,0
+f1b839f705376a70fe69adb73afda829,UZ Brussel,PRIMUZ,BE,5594,Encounter,Secondary,0,0,0,0,0,1,0,0
+fda6030ee1a734d972076958a0bac8cb,Fundació Institut d´Investigació Sanitària Illes Balears,PRISIB,ES,2498226,Encounter,Mixed,1,0,1,0,0,0,0,0
+1746a9682a28d6ab2c265e88be428e5c,IRCCS Policlinico San Donato,PSD,IT,485174,Encounter,Mixed,1,0,0,0,0,0,0,0
+ea2e7d7958caf595afbbf0b04e047f08,Finnish Clinical Biobank Tampere,PSHP Oncology,FI,114697,Disease,Secondary,1,0,1,0,0,0,0,0
+448bb196bfc079a76e68ac8fc40a8c85,Parc Sanitari Sant Joan de Déu,PSSJD,ES,659817,Encounter,Mixed,1,0,0,0,0,0,0,0
+3fb98cc89709a4262d4536b9933edd67,Harm Slijper,PulseHandWrist,NL,49903,Disease,Secondary,0,0,0,1,1,0,0,0
+a7ee180909a6886e680246cfc68d713b,Quironsalud,QuirónSalud,ES,298839,Encounter,Secondary,1,0,0,0,0,0,0,0
+c4aa6ec1869d790b11b9ef94e803d162,Registo Portugues de Doentes Reumaticos,Reuma.pt,PT,28325,Disease,Secondary,0,0,0,1,0,0,0,0
+73e7c4029b5667f3a6dac49432488595,Czech Myeloma Group,RMG,CZ,9802,Disease,Mixed,0,0,0,1,0,0,0,0
+f2c7d1a22ded36cf063294049303fa37,Registre National du Cancer du Luxembourg,RNC,LU,8892,Disease,Mixed,1,0,0,0,0,0,0,0
+bd7927942c8e19a314acfe07383ee11b,Vaud Cancer Registry,RVT,CH,154043,Disease,Mixed,0,0,0,1,0,0,0,0
+8086ddf08a089722bc63e692e6eec3a5,LynxCare,RWEHub_Cardiology,BE,18296,Encounter,Secondary,0,0,0,0,0,1,0,0
+5732799ca5e9d119b5dc376347d5117f,LynxCare,RWEHubHF,BE,26500,Disease,Secondary,1,0,0,0,0,0,0,0
+f0f705f2ade0de7854775111260a2aad,SAIL Databank,SAIL - ADDE,GB,793300,Population,0,0,0,0,1,0,0,0,0
+605c3f7a824e54d0095aada07edf163c,SAIL Databank,SAIL - NCCH,GB,1907900,Population,Primary,1,0,0,0,0,0,0,0
+2ddf4ed82092b268a014036e41996897,SAIL Databank,SAIL - PATD,GB,1105100,Disease,Primary,1,0,0,0,0,0,0,0
+cf7b32bb8cd80d35f57fd6bfacd90289,SAIL Databank,SAIL - PEDW,GB,3423200,Encounter,Secondary,1,0,0,0,0,0,0,0
+1f2b445f80dd8e7b050fd166c923f630,SAIL Databank,SAIL - WDSD,GB,5569400,Population,Primary,1,0,0,0,0,0,0,0
+36a6a8aacfed7ed65800d8f0f70b7981,SAT Health,SATHEALTH,BG,12451,Encounter,Secondary,0,1,0,0,0,0,0,0
+4175d6ba05253a8fe32c2215a87db022,Gothenburg University,SCIFI-PEARL,SE,11700000,Population,Mixed,0,0,0,1,0,0,0,0
+d13622598e626f0dc78986da8791a2d2,Servicio Cántabro de Salud and IDIVAL,SCIVAL,ES,1377099,Encounter,Mixed,1,0,1,0,0,0,0,0
+71f83eba2f464f7cb4efeb68726cc7e8,HUG and SCQM,SCQM,CH,20355,Disease,Mixed,1,0,0,1,1,0,0,0
+a76cdc8b7c87e35fe63a6957d860be58,Consellería de Sanidade,SERGAS,ES,2916773,Encounter,Mixed,1,0,0,1,0,0,0,0
+2abcc1297ebeccefd93936dd80f4b43b,University of Edinburgh,SESCD,GB,35395,Disease,Secondary,1,0,0,0,0,0,1,0
+8b4ed7b76635f6a9d5d615807a00797e,SIDIAP - The Information System for Reseach in Primary Care,SIDIAP,ES,7887308,Encounter,Primary,1,0,1,0,0,0,0,0
+1464853b41bd7b41eb31b650272f9037,King's College London,SLSR,GB,6242,Disease,Mixed,1,0,1,0,1,0,0,0
+53c68acceaa545bb5b4d16bc19e130b3,Health Data Hub,SNDS,FR,671610,Encounter,Mixed,0,1,0,0,0,0,0,0
+f34d7879e529a2f98dd4ffe250c25898,Bordeaux PharmacoEpi,SNDS (BPE),FR,67000000,Population,Mixed,0,1,0,1,0,0,0,0
+11ead344c802dbf6a3fba23deae6d728,SWIBREG,SWIBREG,SE,60000,Disease,Mixed,1,0,1,0,1,0,0,0
+15f465439706f04a557e9eccd65fdedb,Pirkanmaa Hospital District,TaUH,FI,893817,Encounter,Secondary,1,0,1,0,0,0,0,0
+4803e12a1e0742d18f049d01b5b967e4,CEGEDIM HEALTH DATA,THIN FRANCE,FR,37887715,Encounter,Primary,1,0,1,0,1,0,0,0
+59a9356ebc3ae6da2e6c555b11bec27a,CEGEDIM HEALTH DATA,THIN Romania,RO,1048994,Encounter,Primary,1,0,0,0,1,0,0,0
+70f8ccac2e52fa90c9576c0a3994d864,CEGEDIM HEALTH DATA,THIN UK,GB,17162200,Encounter,Primary,1,0,1,0,1,0,0,0
+e7cedd927a709084505d34a2cb92b3d6,Finnish Institute of Health and Welfare,THL-AVOHILMO,FI,7294000,Encounter,Primary,1,0,0,0,0,0,0,0
+d1e4eec3285ea87c7dd7781ef1f61609,Finnish Institute for Health and Welfare (THL),THL-HILMO,FI,7102953,Encounter,Mixed,1,0,0,0,0,0,0,0
+5206a4a6e67776609bb161ebb86e9a41,Trinity St James's Cancer Institute,TSJCI BRE,IE,1020,Disease,Mixed,0,0,0,1,0,0,0,0
+e0223504a0e1a3262efa788f512bfd96,Trinity St James's Cancer Institute,TSJCI COL,IE,624,Disease,Mixed,0,0,0,1,0,0,0,0
+1a50474eade9ac224787a97b2e0f3e96,Trinity St James's Cancer Institute,TSJCI GYN,IE,922,Disease,Mixed,0,0,0,1,0,0,0,0
+f5e7ff827a243bb97a768a6860c3b20c,Trinity St James's Cancer Institute,TSJCI HAN,IE,1363,Disease,Mixed,0,0,0,1,0,0,0,0
+5870e54c00d3b8b297edb742ae14f2fb,Trinity St James's Cancer Institute,TSJCI LNG,IE,1920,Disease,Mixed,0,0,0,1,0,0,0,0
+7ba21de0ec8a0cb94818a33aa4667a60,Trinity St James's Cancer Institute,TSJCI SKN,IE,663,Disease,Mixed,0,0,0,1,0,0,0,0
+4cb98b1cc8b23e10370d1acb633e2022,Trinity St James's Cancer Institute,TSJCI UGI,IE,1785,Disease,Mixed,0,0,0,1,0,0,0,0
+7c4c7374acee8a54a2819a73926f8992,Trinity St James's Cancer Institute,TSJCI URO,IE,2047,Disease,Mixed,0,0,0,1,0,0,0,0
+00eb648722a8faf66bb61106e4e07308,Clinical centre of Nis,UCCNis,RS,3400,Encounter,Secondary,1,0,1,0,0,0,0,0
+c625c8b1077eae703c0ea769636a72ab,Clinical Center of Serbia,UCCS,RS,860000,Encounter,Secondary,1,0,1,1,0,0,0,0
+9ef2798c0d59a7ed8bc3bdc131ff65c5,University College London Hospitals,UCLH,GB,188970,Encounter,Secondary,1,0,0,0,0,0,0,0
+cb77f7cbd63289ed371b7a5384bdff33,University College London (UCL) (UK Biobank) ,UK Biobank,GB,502504,Population,Mixed,1,0,1,1,1,0,1,0
+726a40712732a1066dd2f6d7cb1f8312,University Medicine Dresden,UKDresden,DE,624697,Encounter,Secondary,1,1,0,0,0,0,0,0
+07828dc191509e484efcd12bf9c084ce,National Cancer Institute,ULR,UA,1112,Disease,Mixed,0,0,0,1,0,0,0,0
+8ff46e13eafbe9b4b9bcded42ae6537b,ULS AC Cardiovascular,ULS AC Cardiovascular,PT,2180,Encounter,Secondary,1,0,0,0,0,0,0,0
+41c94e2217390a4f927cabe6fea1fbb9,ULSM,ULSM COVID,PT,9750,Disease,Secondary,1,0,0,0,0,0,0,0
+a4a8cf73b2ec26f6affaba48093f32e7,Unidade Local de Saúde de Matosinhos,ULSM RT-DB,PT,679804,Encounter,Secondary,1,0,0,0,0,0,0,0
+aca4dad4d60cb0af3eeee523f0524b8b,University of Pécs,UP-HCDB,HU,1012198,Encounter,Secondary,1,1,0,0,1,0,1,0
+e85058b9aedb3254a75fbd7e7adf0181,Semmelweis University,USN_EMR,HU,2075672,Encounter,Secondary,1,0,0,0,0,0,0,0
+7fc3466e566dc1880b162a2b6d17d6d7,University Hospital Antwerp,UZA_NLP_ONCO,BE,4562,Disease,Secondary,0,0,0,0,0,1,0,0
+36ccb1b51a3ef6f684e3de9c257eb9ca,Universitaire Ziekenhuizen KU Leuven,UZLDB,BE,582709,Disease,Secondary,1,1,0,1,0,0,0,0
+b635255a24c714bae85473de9fc935b7,Vall d'Hebrón Hospital Campus,VH,ES,1799398,Encounter,Secondary,1,0,1,0,0,0,0,0
+78c96e00c1d4459aedaea428135039e7,FISABIO-HSRU,VID-CONSIGN,ES,1964588,Population,Mixed,1,0,1,1,0,0,0,0
+e7ac9766e5578b557055eb922d0b9dff,VieCuri Medisch Centrum,Viecuri,NL,4918,Encounter,Secondary,1,0,0,0,0,1,0,0
+fe3559d1369f903377c2041681350f72,Ziekenhuis Oost-Limburg,ZOL-EPDexport-DB,BE,12209,Encounter,Secondary,1,0,1,1,0,0,0,0
