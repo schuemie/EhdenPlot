@@ -162,7 +162,7 @@ f2c7d1a22ded36cf063294049303fa37,Registre National du Cancer du Luxembourg,RNC,L
 bd7927942c8e19a314acfe07383ee11b,Vaud Cancer Registry,RVT,CH,154043,Disease,Mixed,0,0,0,1,0,0,0,0
 8086ddf08a089722bc63e692e6eec3a5,LynxCare,RWEHub_Cardiology,BE,18296,Encounter,Secondary,0,0,0,0,0,1,0,0
 5732799ca5e9d119b5dc376347d5117f,LynxCare,RWEHubHF,BE,26500,Disease,Secondary,1,0,0,0,0,0,0,0
-f0f705f2ade0de7854775111260a2aad,SAIL Databank,SAIL - ADDE,GB,793300,Population,0,0,0,0,1,0,0,0,0
+f0f705f2ade0de7854775111260a2aad,SAIL Databank,SAIL - ADDE,GB,793300,Population,Secondary,0,0,0,1,0,0,0,0
 605c3f7a824e54d0095aada07edf163c,SAIL Databank,SAIL - NCCH,GB,1907900,Population,Primary,1,0,0,0,0,0,0,0
 2ddf4ed82092b268a014036e41996897,SAIL Databank,SAIL - PATD,GB,1105100,Disease,Primary,1,0,0,0,0,0,0,0
 cf7b32bb8cd80d35f57fd6bfacd90289,SAIL Databank,SAIL - PEDW,GB,3423200,Encounter,Secondary,1,0,0,0,0,0,0,0
@@ -175,8 +175,8 @@ a76cdc8b7c87e35fe63a6957d860be58,Consellería de Sanidade,SERGAS,ES,2916773,Enco
 2abcc1297ebeccefd93936dd80f4b43b,University of Edinburgh,SESCD,GB,35395,Disease,Secondary,1,0,0,0,0,0,1,0
 8b4ed7b76635f6a9d5d615807a00797e,SIDIAP - The Information System for Reseach in Primary Care,SIDIAP,ES,7887308,Encounter,Primary,1,0,1,0,0,0,0,0
 1464853b41bd7b41eb31b650272f9037,King's College London,SLSR,GB,6242,Disease,Mixed,1,0,1,0,1,0,0,0
-53c68acceaa545bb5b4d16bc19e130b3,Health Data Hub,SNDS,FR,671610,Encounter,Mixed,0,1,0,0,0,0,0,0
-f34d7879e529a2f98dd4ffe250c25898,Bordeaux PharmacoEpi,SNDS (BPE),FR,67000000,Population,Mixed,0,1,0,1,0,0,0,0
+53c68acceaa545bb5b4d16bc19e130b3,Health Data Hub,SNDS,FR,671610,Population,Mixed,0,1,0,0,0,0,0,0
+f34d7879e529a2f98dd4ffe250c25898,Bordeaux PharmacoEpi,SNDS (BPE),FR,72520,Population,Mixed,0,1,0,0,0,0,0,0
 11ead344c802dbf6a3fba23deae6d728,SWIBREG,SWIBREG,SE,60000,Disease,Mixed,1,0,1,0,1,0,0,0
 15f465439706f04a557e9eccd65fdedb,Pirkanmaa Hospital District,TaUH,FI,893817,Encounter,Secondary,1,0,1,0,0,0,0,0
 4803e12a1e0742d18f049d01b5b967e4,CEGEDIM HEALTH DATA,THIN FRANCE,FR,37887715,Encounter,Primary,1,0,1,0,1,0,0,0
